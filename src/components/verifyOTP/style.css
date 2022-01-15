@@ -1,0 +1,24 @@
+.verify-OTP {
+  text-align: center;
+  margin-top: -20px;
+}
+.verify-OTP-inner {
+  padding-top: 50px;
+  padding-bottom: 300px;
+}
+.title {
+  text-align: center;
+}
+.title h1 {
+  color: #0066ff;
+  font-family: "Monoton", cursive;
+  font-size: 50px;
+}
+.title p {
+  color: #dacfcf;
+  font-size: 24px;
+}
+.form {
+  margin: 0 auto;
+  width: 30%;
+}

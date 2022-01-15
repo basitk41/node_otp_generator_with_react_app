@@ -1,0 +1,24 @@
+.home {
+  background: url(http://www.meshpros.com/images/bg/hmk1.jpg) repeat center
+    fixed;
+  background-color: #ddd9d9;
+  background-blend-mode: multiply;
+  text-align: center;
+  margin-top: -20px;
+}
+.home-inner {
+  padding-top: 150px;
+  padding-bottom: 300px;
+}
+.title {
+  text-align: center;
+}
+.title h1 {
+  color: #0066ff;
+  font-family: "Monoton", cursive;
+  font-size: 50px;
+}
+.title p {
+  color: #dacfcf;
+  font-size: 24px;
+}
