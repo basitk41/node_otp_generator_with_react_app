@@ -8,6 +8,10 @@ const Routing = () => {
         {paths.map((item) => (
           <Route path={item.path} element={<Layout>{item.Component}</Layout>} />
         ))}
+        <Route
+          path={"*"}
+          element={<h1 align="center">404, page not found!</h1>}
+        />
       </Routes>
     </Router>
   );
