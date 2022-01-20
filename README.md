@@ -1,5 +1,5 @@
-# product_box_bonus
-
+# Node OTP Generator with React app
+Node/Express OTP Generator with React App.
 ## Setup
 
 Clone repo<br />
